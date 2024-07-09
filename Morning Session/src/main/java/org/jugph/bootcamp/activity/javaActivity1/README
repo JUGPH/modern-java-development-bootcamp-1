@@ -1,0 +1,5 @@
+This code contains the following Java 10-12 features:
+1. Local Variable Type Inference: var keyword
+2. readString and writeString
+3. Not Predicate method
+4. Old Switch Expression.
