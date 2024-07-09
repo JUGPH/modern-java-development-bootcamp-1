@@ -11,14 +11,11 @@ The repository is divided into two main sections:
 - **Afternoon Session**
 
 ### Morning Session
-The morning session focuses on clean coding principles and basic Java features up to Java 12. You can find the relevant materials in the `morning-session` folder.
+The morning session focuses on clean coding principles and basic Java features up to Java 12. 
 
 ### Afternoon Session
-The afternoon session covers Java 14 to Java 21 features. The materials for this session are located in the `afternoon-session` folder.
+The afternoon session covers Java 14 to Java 21 features. 
 
-## Feedback
-
-We welcome feedback to improve the content of future bootcamps. If you have any suggestions, please create an issue.
 
 Happy coding!
 
